@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+xgboost
+mwclient
+yfinance
+matplotlib
+transformers
+streamlit
+numpy
+time
+os
+datetime
